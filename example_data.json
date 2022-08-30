@@ -68,29 +68,37 @@
             "alert": " text-success",
             "error": null,
             "md5_sum": "d78f3de249ac0f013af94cc89f9498df",
+            "mod_time": null,
             "name": "3D-Cylinder",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/3D-Cylinder.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/3D-Cylinder.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "6bb84a07d67d08fd040447c4682c28a3",
             "md5_sum": "d78f3de249ac0f013af94cc89f9498df",
+            "mod_time": null,
             "name": "Gene-Regulatory-Network",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Gene-Regulatory-Network.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Gene-Regulatory-Network.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": null,
             "md5_sum": "d78f3de249ac0f013af94cc89f9498df",
+            "mod_time": null,
             "name": "Spatial-Birth-Death",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Spatial-Birth-Death.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Spatial-Birth-Death.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "e59d2d5b073308a3f900a239ab381372",
             "md5_sum": "d78f3de249ac0f013af94cc89f9498df",
+            "mod_time": null,
             "name": "Yeast-Polarization",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Yeast-Polarization.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Yeast-Polarization.zip",
+            "umd5_sum": null
         }
     ],
     "Well-Mixed": [
@@ -98,85 +106,109 @@
             "alert": " text-success",
             "error": null,
             "md5_sum": "35a9971eafc7b2c1a1f8eb08031fa6b0",
+            "mod_time": null,
             "name": "Brusselator",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Brusselator.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Brusselator.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "eaab394b5fb00d8e4abc555e7bba9d71",
             "md5_sum": "e554dfd05f5965ac20ba85a576cf62ee",
+            "mod_time": null,
             "name": "Degradation",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Degradation.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Degradation.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "f797ac846c69859d739c6ea3590474c7",
             "md5_sum": "57a34b1d0aee03b26906b70ecad4b577",
+            "mod_time": null,
             "name": "Dimerization",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Dimerization.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Dimerization.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": null,
             "md5_sum": "93b6c7c7b161e5f84ccd16ae1a7b62a5",
+            "mod_time": null,
             "name": "Example-SIR-Epidemic-Project",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Example-SIR-Epidemic-Project.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Example-SIR-Epidemic-Project.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "23769fc852218a0d67fd93842cbbf409",
             "md5_sum": "ff28d18299eca642ff24000fffecfdd8",
+            "mod_time": null,
             "name": "Genetic-Toggle-Switch",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Genetic-Toggle-Switch.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Genetic-Toggle-Switch.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "dc50252e62110b7a09d4e194947b21e2",
             "md5_sum": "7035070f45752e7af5667be6a2a45788",
+            "mod_time": null,
             "name": "Lotkavolterra-Oscillator",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Lotkavolterra-Oscillator.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Lotkavolterra-Oscillator.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "1c5acd9e4081369ec7d5db716a59da00",
             "md5_sum": "5658a19d3db8a56052696aa75470692b",
+            "mod_time": null,
             "name": "Michaelis-Menten",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Michaelis-Menten.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Michaelis-Menten.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "fb6bdb2c15604ffab7a83ffcd5cd9a5c",
             "md5_sum": "77a83648eed9b2d7d1be425aa431be40",
+            "mod_time": null,
             "name": "Opioid",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Opioid.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Opioid.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "1c48ca4abc6ac80b5cde76bb8307cdb8",
             "md5_sum": "227ffbac10089608973d251c1bff0516",
+            "mod_time": null,
             "name": "Oregonator",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Oregonator.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Oregonator.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "dddfc3241c32d18081e482ebc5a7e153",
             "md5_sum": "ccf76b58ca33afe205c81dc81a75b774",
+            "mod_time": null,
             "name": "Schlogl",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Schlogl.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Schlogl.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "d47c4be3abe51d792741c0abee7c17e2",
             "md5_sum": "6300e6c2d2346ded21c6b0ebeb41d84b",
+            "mod_time": null,
             "name": "Tyson-Oscillator",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Tyson-Oscillator.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Tyson-Oscillator.zip",
+            "umd5_sum": null
         },
         {
             "alert": " text-success",
             "error": "b4a0a70468caeb54604791e22f91e223",
             "md5_sum": "d78f3de249ac0f013af94cc89f9498df",
+            "mod_time": null,
             "name": "Vilar-Oscillator",
-            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Vilar-Oscillator.zip"
+            "open_link": "https://open.stochss.org?open=https://github.com/StochSS/StochSS_Example_Library/raw/main/Vilar-Oscillator.zip",
+            "umd5_sum": null
         }
     ]
 }
